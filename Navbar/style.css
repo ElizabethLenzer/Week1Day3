@@ -1,0 +1,25 @@
+.nav{
+    width: 800px;
+    height: 70px;
+    background-color: cyan;
+    display: flex;
+    align-items: center;
+}
+
+.nav-title{
+    justify-content: start;
+}
+
+li{
+    display: inline-block;
+}
+
+h1{
+    color: white;
+    margin: 125px;
+}
+
+button{
+    box-shadow: 5px 2px blue;
+    background: cyan;
+}
